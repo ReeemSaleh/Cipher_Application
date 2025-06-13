@@ -2,11 +2,13 @@
 
 ## 📊 Flowchart
 
-<picture>
-  <source srcset="Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="Flowchart_Light.png" media="(prefers-color-scheme: light)">
-  <img src="Flowchart_Light.png" alt="Flowchart" width="300px">
-</picture>
+<div style="text-align: center;">
+  <picture>
+    <source srcset="Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="Flowchart_Light.png" media="(prefers-color-scheme: light)">
+    <img src="Flowchart_Light.png" alt="Flowchart" width="300px">
+  </picture>
+</div>
 
 ## 🧠 Pseudocode
 
