@@ -2,7 +2,11 @@
 
 ## 📊 Flowchart
 
-<img src="Cipher_Application_Flowchart.svg" width="700"/>
+<picture>
+  <source srcset="Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="Flowchart_Light.png" media="(prefers-color-scheme: light)">
+  <img src="Flowchart_Light.png" alt="Flowchart">
+</picture>
 
 ## 🧠 Pseudocode
 
