@@ -1,2 +1,2 @@
-# File Cipher Application
+# 🔐 File Cipher Application
 
