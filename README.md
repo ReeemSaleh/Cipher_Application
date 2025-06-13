@@ -2,11 +2,11 @@
 
 ## 📊 Flowchart
 
-<div style="text-align: center;">
+<div align="center">
   <picture>
     <source srcset="Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
     <source srcset="Flowchart_Light.png" media="(prefers-color-scheme: light)">
-    <img src="Flowchart_Light.png" alt="Flowchart" width="300px">
+    <img src="Flowchart_Light.png" alt="Flowchart" width="500px">
   </picture>
 </div>
 
