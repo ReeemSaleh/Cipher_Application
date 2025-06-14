@@ -1,7 +1,6 @@
 # 🔐 File Cipher Application
 
-The File Cipher Application is a Java-based tool that enables users to encrypt and decrypt text files through a user-friendly interface, using classical cryptographic techniques to secure file contents. The program is a testament to the significance of privacy in our digitally networked society, offering a simplified yet practical demonstration of securing personal information through code.
-It supports both Arabic and English text, ensuring multilingual accessibility and usability.
+The File Cipher Application is a Java-based tool that enables users to encrypt and decrypt text files through a user-friendly interface, using classical cryptographic techniques to secure file contents. The program is a testament to the significance of privacy in our digitally networked society, offering a simplified yet practical demonstration of securing personal information through code. It supports both Arabic and English text, ensuring multilingual accessibility and usability.
 
 ## 📊 Flowchart
 
