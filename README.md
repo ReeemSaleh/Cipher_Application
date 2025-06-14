@@ -61,3 +61,19 @@ END PROGRAM
 ```
 
 ## 📁 Project Structure
+
+   ```bash
+   Cipher_Application/
+   ├── .vscode
+   ├── bin
+   ├── lib
+   ├── src/
+   │ └── Cipher_Application.java
+   ├── Background.png
+   ├── Cipher.txt
+   ├── Decrypt.txt
+   ├── Message.txt
+   └── README.md
+   ```
+
+## 🎬 Demo 
