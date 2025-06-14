@@ -32,7 +32,7 @@ public class Cipher_Application extends javax.swing.JFrame{
         frame.setContentPane(layeredPane);
         
         // Load the background image
-        ImageIcon img = new ImageIcon("Background.png");
+        ImageIcon img = new ImageIcon("Assets/Background.png");
         JLabel background = new JLabel("", img, JLabel.CENTER);
         background.setBounds(0, 0, 700, 500);
         layeredPane.add(background, Integer.valueOf(1));
@@ -208,7 +208,7 @@ public class Cipher_Application extends javax.swing.JFrame{
     public static Font lasticaFont(int size){
         Font lasticaFont;
         try {
-            lasticaFont = Font.createFont(Font.TRUETYPE_FONT, new File("FontsFree-Net-Lastica.ttf")).deriveFont(Font.BOLD, size);
+            lasticaFont = Font.createFont(Font.TRUETYPE_FONT, new File("Assets/FontsFree-Net-Lastica.ttf")).deriveFont(Font.BOLD, size);
             GraphicsEnvironment.getLocalGraphicsEnvironment().registerFont(lasticaFont);
             return lasticaFont;
         } catch (IOException | FontFormatException e) {
