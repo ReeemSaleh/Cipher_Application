@@ -79,5 +79,5 @@ END PROGRAM
 ## 🎬 Demo 
 
 <a href="https://youtu.be/_wWtaNU7JS4" target="_blank">
-  <img src="Images/Demo_Thumbnail.png" alt="Watch Demo" width="700"/>
+  <img src="Assets/Demo_Thumbnail.png" alt="Watch Demo" width="700"/>
 </a>
