@@ -6,9 +6,9 @@ The File Cipher Application is a Java-based tool that enables users to encrypt a
 
 <div align="center">
   <picture>
-    <source srcset="Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="Flowchart_Light.png" media="(prefers-color-scheme: light)">
-    <img src="Flowchart_Light.png" alt="Flowchart" width="400px">
+    <source srcset="Assets/Flowchart_Dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="Assets/Flowchart_Light.png" media="(prefers-color-scheme: light)">
+    <img src="Assets/Flowchart_Light.png" alt="Flowchart" width="400px">
   </picture>
 </div>
 
@@ -64,12 +64,12 @@ END PROGRAM
 
    ```bash
    Cipher_Application/
-   ├── .vscode
-   ├── bin
-   ├── lib
+   ├── .vscode/
+   ├── Assets/
+   ├── bin/
+   ├── lib/
    ├── src/
    │ └── Cipher_Application.java
-   ├── Background.png
    ├── Cipher.txt
    ├── Decrypt.txt
    ├── Message.txt
