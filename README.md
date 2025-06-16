@@ -65,7 +65,7 @@ END PROGRAM
    ```bash
    Cipher_Application/
    ├── .vscode/
-   ├── Assets/
+   ├── Repository_Assets/
    ├── bin/
    ├── lib/
    ├── src/
