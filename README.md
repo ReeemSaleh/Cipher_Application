@@ -64,10 +64,6 @@ END PROGRAM
 
    ```bash
    Cipher_Application/
-   ├── .vscode/
-   ├── Repository_Assets/
-   ├── bin/
-   ├── lib/
    ├── src/
    │ └── Cipher_Application.java
    ├── Cipher.txt
