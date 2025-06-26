@@ -15,7 +15,7 @@ import java.io.BufferedWriter;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.filechooser.FileNameExtensionFilter;
-
+//
 public class Cipher_Application extends javax.swing.JFrame{
 
     public static void main(String[] args){
